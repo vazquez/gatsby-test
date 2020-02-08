@@ -1,3 +1,3 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+export default () => <div>Aww yeah... <span role="img" aria-label="sunglasses emoji">😎</span></div>
